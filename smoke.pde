@@ -1,4 +1,4 @@
-// by Etienne JACOB
+// by Gray
 // motion blur template by beesandbombs
 // needs opensimplexnoise code in another tab
 // --> code here : https://gist.github.com/Bleuje/fce86ef35b66c4a2b6a469b27163591e
